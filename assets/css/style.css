@@ -1,0 +1,40 @@
+body {
+    background-color: #19227c;
+}
+
+.form-block {
+    margin: auto;
+    margin-top: 100px;
+    background-color: #fafafa;
+    height: auto;
+    width: 400px;
+    box-shadow: 2px 2px 2px #fafafa;
+}
+
+.title {
+    color: #fafafa;
+    text-align: center;
+}
+
+.required:after {
+    content: " *";
+    color: red;
+}
+
+
+/*
+.form-in {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.dropdown {
+    font-size: medium;
+    background-color: #fafafa;
+    color: #19227c;
+}
+
+.la {
+    padding-left: 50px;
+}*/
